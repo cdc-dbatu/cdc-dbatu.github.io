@@ -17,3 +17,13 @@
 #largercontent{
     font-size: 1.4em !important;
 }
+#bgcolorindigo{
+   background: linear-gradient(-17deg,rgb(192, 207, 240),#fff,#9dd5e3);;
+}
+#bgcolorfoot{
+	background: linear-gradient(-17deg,rgb(192, 207, 240),#fff,#fff);;
+}
+/* #colorbutton{
+background-color: #5e5e5e;
+color: #fff;
+} */
